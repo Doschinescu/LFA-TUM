@@ -41,12 +41,12 @@ body {
 }
 
 h1 {
-    color: blue;
+    color: green;
     text-align: center;
 }
 
 .container {
-    width: 80%;
+    width: 70%;
     margin: 0 auto;
 }
 """
